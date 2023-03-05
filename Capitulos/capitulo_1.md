@@ -44,3 +44,27 @@
 | - La nube ha llevado a una mayor colaboración y trabajo en equipo, permitiendo que los empleados trabajen en cualquier lugar con conexión a internet y con acceso a los recursos de la empresa. |
 | - La nube también ha impulsado el desarrollo de nuevas tecnologías, como la inteligencia artificial y el aprendizaje automático, lo que ha llevado a una mayor automatización de procesos y una mayor eficiencia en la toma de decisiones. |
 | - La seguridad en la nube sigue siendo una preocupación importante, ya que los datos y aplicaciones de la empresa se almacenan en servidores externos y se accede a ellos a través de internet. Por lo tanto, es importante implementar medidas de seguridad y privacidad adecuadas para proteger los datos sensibles de la empresa. |
+
+----
+
+### Video 3
+#### Consideración clave en la computación en la nube
+| Consideraciones clave | Descripción |
+| --- | --- |
+| Infraestructura y cargas de trabajo | El costo de construir y operar centros de datos puede ser astronómico, mientras que los bajos costos iniciales y las características de pago por uso de la computación en la nube pueden ahorrar costos significativos. Además, no todas las cargas de trabajo pueden estar listas para la nube. |
+| Software como servicio y plataformas de desarrollo | Las organizaciones deben considerar si pagar por el acceso a aplicaciones es una opción más viable que comprar software prefabricado y posteriormente invertir en actualizaciones. También deben considerar la velocidad y productividad para implementar nuevas aplicaciones en la nube en comparación con plataformas tradicionales, así como las eficiencias en costos que obtienen al utilizar paneles de control de la nube, estadísticas en tiempo real y análisis activos. |
+| Riesgo | Las organizaciones deben considerar el impacto de tomar una decisión equivocada en cuanto a si es más riesgoso invertir en hardware y software o rentar por hora. También deben considerar si es más seguro trabajar en un plan de 12 meses para construir, escribir pruebas y lanzar el código si no están seguros acerca de la adopción. |
+
+| Beneficios de la adopción de la nube | Descripción |
+| --- | --- |
+| Flexibilidad | Los usuarios pueden escalar los servicios para satisfacer sus necesidades y personalizar aplicaciones y acceder a servicios de nube desde cualquier lugar con una conexión a Internet. La infraestructura de la nube se escala según la demanda para soportar cargas de trabajo fluctuantes. |
+| Eficiencia | Los usuarios empresariales pueden llevar aplicaciones al mercado rápidamente sin preocuparse por los costos de infraestructura subyacentes o su mantenimiento. Las aplicaciones y los datos basados en la nube son accesibles desde virtualmente cualquier dispositivo conectado a Internet. Las fallas de hardware no resultan en pérdida de datos debido a las copias de seguridad en red. |
+| Valor estratégico | La nube proporciona herramientas y recursos preconstruidos para personalizar soluciones que se adapten a las necesidades específicas de la organización. Las nubes privadas virtuales, la encriptación y las claves de API ayudan a mantener seguros los datos. Los servicios en la nube ofrecen a las empresas una ventaja competitiva al proporcionar las tecnologías más innovadoras disponibles mientras administran la infraestructura subyacente. |
+
+| Desafíos | Descripción |
+| --- | --- |
+| Seguridad de datos | Pérdida o indisponibilidad de datos que pueden causar interrupciones en los negocios. |
+| Problemas de gobierno y soberanía | Problemas legales, regulatorios y de cumplimiento. |
+| Falta de estandarización | En cómo se integran e interoperan las tecnologías en constante evolución. |
+| Elección del modelo de implementación y servicio | Elección de los modelos de implementación y servicio adecuados para satisfacer las necesidades específicas. |
+| Selección del proveedor de servicios en la nube | Elegir al proveedor de servicios en la nube, algunos de los principales proveedores de servicios en la nube incluyen: AWS, Azure, GPC, IBM Cloud, Oracle Cloud, entre otras.
