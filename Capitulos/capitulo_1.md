@@ -68,3 +68,24 @@
 | Falta de estandarización | En cómo se integran e interoperan las tecnologías en constante evolución. |
 | Elección del modelo de implementación y servicio | Elección de los modelos de implementación y servicio adecuados para satisfacer las necesidades específicas. |
 | Selección del proveedor de servicios en la nube | Elegir al proveedor de servicios en la nube, algunos de los principales proveedores de servicios en la nube incluyen: AWS, Azure, GPC, IBM Cloud, Oracle Cloud, entre otras.
+
+----
+### Video 4
+#### Proveedores clave de servicios en la nube y sus servicios.
+
+| Idea Principal                                                | Proveedor de Servicios en la Nube |
+|---------------------------------------------------------------|----------------------------------|
+| Crecimiento pronosticado del mercado mundial de servicios públicos en la nube | Gartner |
+| Aumento del gasto en Infraestructura como Servicio              | Gartner |
+| Crecimiento del gasto en Plataforma como Servicio                         | Gartner |
+| Cambio a solo nube con gasto en Software como Servicio     | Gartner |
+| Estrategia de adopción de la nube para las empresas                         | N/A |
+| Principales proveedores de servicios en la nube                      | Alibaba Cloud, AWS, GCP, IBM, Microsoft Azure, Oracle, Salesforce, SAP |
+| Servicios de Alibaba Cloud                                        | Computación, redes, almacenamiento, seguridad, monitoreo, comunicación, análisis, IoT, desarrollo de aplicaciones, migración de datos, alojamiento web |
+| Servicios de AWS Cloud                                        | Infraestructura, Plataforma, Computación, DevOps, Datos, Análisis, IoT, Aprendizaje Automático, Redes, Entrega de Contenido, Robótica, Computación sin Servidor |
+| Servicios de Google Cloud Platform                              | Infraestructura, Plataforma, Computación sin Servidor, G Suite, Google App Engine |
+| Servicios de IBM Cloud                                           | Computación, redes, almacenamiento, gestión, seguridad, DevOps, bases de datos, tecnologías emergentes |
+| Servicios de Microsoft Azure                                     | Software, Plataforma, Infraestructura, alcance global |
+| Servicios de Oracle Cloud                                        | Software como Servicio, Base de Datos como Servicio, Infraestructura, Plataforma, Oracle Data Cloud |
+| Servicios de Salesforce                                          | Software como Servicio, Sales Cloud, Service Cloud, Marketing Cloud |
+| Servicios de SAP                                                 | Software y aplicaciones empresariales, Plataforma en la Nube de SAP |
