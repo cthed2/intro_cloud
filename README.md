@@ -16,7 +16,7 @@ Nota: el esquema propuesto de estudio se modificará constantemente, según nues
 - CONECTAR SERVICIOS AL INTERNO
 
 #### 4. COSTOS 
--Modelos de costos 
+- Modelos de costos 
 - Como OPTIMIZAR costos
 #### 5. CONTAINERS 
 - CLOUD FUNCTIONS 
